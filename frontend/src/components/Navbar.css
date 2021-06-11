@@ -25,12 +25,17 @@
   padding-left: 1.5rem;
 }
 
-.navbar__links > li > a {
+.navbar__links > li > a,
+.navbar__github {
   text-decoration: none;
   color: #f4f4f4;
   font-size: 1.2rem;
   display: flex;
   align-items: center;
+}
+
+.navbar__github:hover {
+  color: #dd219e;
 }
 
 .navbar__links > li > a > span {

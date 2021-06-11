@@ -16,7 +16,12 @@ const Navbar = ({ click }) => {
       <div className="navbar_logo">
         <h2>MERN Shopping Cart</h2>
       </div>
-
+      <a
+        className="navbar__github"
+        href="https://github.com/Deteerm/mern-shopping-cart"
+      >
+        GitHub
+      </a>
       <ul className="navbar__links">
         <li>
           <Link to="/cart" className="cart__link">
