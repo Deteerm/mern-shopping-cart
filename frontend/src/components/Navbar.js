@@ -21,6 +21,8 @@ const Navbar = ({ click }) => {
         href="https://github.com/Deteerm/mern-shopping-cart"
       >
         GitHub
+        <br />
+        Dominik Tarkiewicz
       </a>
       <ul className="navbar__links">
         <li>
