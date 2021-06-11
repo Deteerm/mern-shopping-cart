@@ -1,4 +1,4 @@
-# mern-shopping-yt-build
+# mern-shopping-cart
 
 ## MERN stack shopping cart
 
